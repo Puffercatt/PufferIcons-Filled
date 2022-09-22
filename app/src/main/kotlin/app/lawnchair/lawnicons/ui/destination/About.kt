@@ -34,20 +34,20 @@ private val coreContributors = listOf(
         photoUrl = "https://avatars.githubusercontent.com/u/8080853",
         socialUrl = "https://twitter.com/paphonb",
     ),
+    Contributor(
+        name = "Kacper Zacharski (Puffercat)",
+        username = "KZacharski",
+        photoUrl = "https://cdn.puffercat.xyz/c/branding/logo-basic.png",
+        socialUrl = "https://puffercat.xyz",
+    )
 )
 
 private val specialThanks = listOf(
     Contributor(
         name = "RKBDI",
         photoUrl = "https://avatars.githubusercontent.com/u/22264125?v=4",
-        socialUrl = "https://twitter.com/rkbdi",
-        descriptionRes = R.string.special_thanks_icon,
-    ),
-    Contributor(
-        name = "Radek",
-        photoUrl = "https://avatars.githubusercontent.com/u/22264125?v=4",
         username = "RadekBledowski",
-        descriptionRes = R.string.special_thanks_name,
+        descriptionRes = R.string.special_thanks_icon,
     ),
 )
 
